@@ -1,6 +1,6 @@
-package com.example.product_api.repository;
+package com.salazarcodes.product_api.repository;
 
-import com.example.product_api.model.Product;
+import com.salazarcodes.product_api.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

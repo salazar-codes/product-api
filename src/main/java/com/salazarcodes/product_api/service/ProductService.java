@@ -1,10 +1,10 @@
-package com.example.product_api.service;
+package com.salazarcodes.product_api.service;
 
-import com.example.product_api.dto.ProductDTO;
-import com.example.product_api.dto.ProductResponse;
-import com.example.product_api.mapper.ProductMapper;
-import com.example.product_api.model.Product;
-import com.example.product_api.repository.ProductRepository;
+import com.salazarcodes.product_api.dto.ProductDTO;
+import com.salazarcodes.product_api.dto.ProductResponse;
+import com.salazarcodes.product_api.mapper.ProductMapper;
+import com.salazarcodes.product_api.model.Product;
+import com.salazarcodes.product_api.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,9 +1,8 @@
-package com.example.product_api.controller;
+package com.salazarcodes.product_api.controller;
 
-import com.example.product_api.dto.ProductDTO;
-import com.example.product_api.dto.ProductResponse;
-import com.example.product_api.model.Product;
-import com.example.product_api.service.ProductService;
+import com.salazarcodes.product_api.dto.ProductDTO;
+import com.salazarcodes.product_api.dto.ProductResponse;
+import com.salazarcodes.product_api.service.ProductService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import jakarta.validation.Valid;

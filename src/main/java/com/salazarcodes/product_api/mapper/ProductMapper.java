@@ -1,8 +1,8 @@
-package com.example.product_api.mapper;
+package com.salazarcodes.product_api.mapper;
 
-import com.example.product_api.dto.ProductDTO;
-import com.example.product_api.dto.ProductResponse;
-import com.example.product_api.model.Product;
+import com.salazarcodes.product_api.dto.ProductDTO;
+import com.salazarcodes.product_api.dto.ProductResponse;
+import com.salazarcodes.product_api.model.Product;
 
 public class ProductMapper {
 

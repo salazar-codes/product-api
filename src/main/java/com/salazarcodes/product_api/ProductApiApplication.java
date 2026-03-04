@@ -1,4 +1,4 @@
-package com.example.product_api;
+package com.salazarcodes.product_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

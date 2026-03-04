@@ -1,4 +1,4 @@
-package com.example.product_api.dto;
+package com.salazarcodes.product_api.dto;
 
 public record ProductResponse(
         Long id,

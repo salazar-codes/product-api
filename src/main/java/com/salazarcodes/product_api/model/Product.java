@@ -1,4 +1,4 @@
-package com.example.product_api.model;
+package com.salazarcodes.product_api.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

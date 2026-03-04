@@ -1,4 +1,4 @@
-package com.example.product_api;
+package com.salazarcodes.product_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
